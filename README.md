@@ -1,4 +1,4 @@
-Instagram Reels Seek Slider
+## Instagram Reels Seek Slider
 
 Tiny Tampermonkey userscript that adds a tap-and-drag seek bar to Instagram Reels so you never rewatch from the start.
 ## Features
@@ -12,14 +12,14 @@ Tiny Tampermonkey userscript that adds a tap-and-drag seek bar to Instagram Reel
 
 -Auto-attach to new reels. Lightweight and throttled.
 
-Install
+## Install
 -Install Tampermonkey or Greasemonkey.
 
 -Install from GreasyFork: https://greasyfork.org/en/scripts/557528-instagram-reels-seek-slider
 
 -Reload Instagram web and open a Reel.
 
-Quick usage
+## Quick usage
 -Tap bar to jump.
 
 -Hold and drag to scrub; release to play.
@@ -28,10 +28,10 @@ Quick usage
 
 -Use ArrowLeft / ArrowRight for 5s skips.
 
-Dev notes
+## Dev notes
 -Edit CSS/JS inside the script for style, throttle, or skip length.
 
 -Uses video detection + MutationObserver to reattach on DOM changes.
 
-License
+## License
 MIT
